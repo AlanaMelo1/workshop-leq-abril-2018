@@ -1,2 +1,5 @@
-# workshop-leq-abril-2018
-Repo criado durante o workhsop de github no LEQ, em 05-04-2018
+# Título do meu projeto
+
+**Escrevendo entre dois pares de asteriscos, o texto vai ficar em negrito**
+
+*Escrevendo entre dois asteriscos, ele fica em itálico*
