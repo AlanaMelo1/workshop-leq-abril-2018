@@ -1,5 +1,30 @@
-# Título do meu projeto
+Alguma coisa
 
-**Escrevendo entre dois pares de asteriscos, o texto vai ficar em negrito**
+# Título 1
 
-*Escrevendo entre dois asteriscos, ele fica em itálico*
+## Título 2
+
+**Negrito**
+
+*Itálico*
+
+Texto normal
+
+~~Texto cortado~~
+
+```
+Código
+Por exemplo, podia ser um pedaço de script o R
+```
+
+> Aqui o texto vai aparecer como citação
+> 
+
+* Item 1
+* Item 2
+
+[Nome do link](https://www.facebook.com/leq.ufal/)
+
+![Nome da imagem](https://www.r-project.org/Rlogo.png)
+
+
